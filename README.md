@@ -2,20 +2,25 @@ Playwright Portfolio
 Advanced Automated Testing Suite
 
 Badges
-https://img.shields.io/github/actions/workflow/status/BurkAndrew/playwright-portfolio/playwright.yml?label=CI%20Status
-https://img.shields.io/badge/Playwright-Testing-blueviolet
-https://img.shields.io/badge/Node-18+-green
-https://img.shields.io/badge/JavaScript-ES2023-yellow
-https://img.shields.io/badge/Chromium-Supported-brightgreen
-https://img.shields.io/badge/Firefox-Supported-orange
-https://img.shields.io/badge/WebKit-Supported-blue
-https://img.shields.io/badge/Accessibility-Axe%20Core%20Checked-9cf
-https://img.shields.io/badge/Mocking-Enabled-yellowgreen
-https://img.shields.io/github/last-commit/BurkAndrew/playwright-portfolio
-https://img.shields.io/github/issues/BurkAndrew/playwright-portfolio
-https://img.shields.io/github/issues-pr/BurkAndrew/playwright-portfolio
-https://img.shields.io/badge/License-MIT-yellow
-https://img.shields.io/badge/Status-Active-brightgreen
+<p align="center">
+
+  <img src="https://img.shields.io/github/actions/workflow/status/BurkAndrew/playwright-portfolio/playwright.yml?label=CI%20Status" />
+  <img src="https://img.shields.io/badge/Playwright-Testing-blueviolet" />
+  <img src="https://img.shields.io/badge/Node-18+-green" />
+  <img src="https://img.shields.io/badge/JavaScript-ES2023-yellow" />
+  <img src="https://img.shields.io/badge/Chromium-Supported-brightgreen" />
+  <img src="https://img.shields.io/badge/Firefox-Supported-orange" />
+  <img src="https://img.shields.io/badge/WebKit-Supported-blue" />
+  <img src="https://img.shields.io/badge/Accessibility-Axe%20Core%20Checked-9cf" />
+  <img src="https://img.shields.io/badge/Mocking-Enabled-yellowgreen" />
+  <img src="https://img.shields.io/github/last-commit/BurkAndrew/playwright-portfolio" />
+  <img src="https://img.shields.io/github/issues/BurkAndrew/playwright-portfolio" />
+  <img src="https://img.shields.io/github/issues-pr/BurkAndrew/playwright-portfolio" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+
+</p>
+
 
 Overview
 This repository showcases a complete, production‑style Playwright automation framework designed to demonstrate real‑world QA engineering skills. It includes end‑to‑end flows, sorting logic validation, API contract tests, accessibility checks, mobile viewport testing, slow‑network resilience, malformed data handling, and chaos‑user stress testing. The project is fully integrated with GitHub Actions CI, ensuring tests run automatically on every push and pull request.
